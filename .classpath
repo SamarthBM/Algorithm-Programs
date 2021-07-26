@@ -8,5 +8,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="BubbleSorting"/>
 	<classpathentry kind="src" path="InsertionSort"/>
+	<classpathentry kind="src" path="PrimeNumber"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

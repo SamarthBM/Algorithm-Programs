@@ -8,7 +8,7 @@ package com.bridgelabs;
 
 public class InsertionSort {
 	/**
-	 * 
+	 * Purpose: Method to perform insertion sort.
 	 * @param <T>
 	 * @param inputArray Method to sort array elements using Insertion sort technique in generic type
 	 */
@@ -31,8 +31,7 @@ public class InsertionSort {
 	}
 
 	/**
-	 * Method to Print the sorted Array
-	 * 
+	 * Purpose:  Method to Print the sorted Array
 	 * @param <T>
 	 * @param inputArray
 	 */
