@@ -12,5 +12,6 @@
 	<classpathentry kind="src" path="Anagram"/>
 	<classpathentry kind="src" path="PermutationOfString"/>
 	<classpathentry kind="src" path="PrimeAnagramPalindrome"/>
+	<classpathentry kind="src" path="FindNumber"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
