@@ -1,5 +1,5 @@
 /****************************************************************
- * Purpose :
+ * Purpose : Program to get prime numbers between certain range.
  * @author Samarth BM
 
 ***************************************************************/
