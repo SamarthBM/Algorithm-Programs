@@ -33,7 +33,7 @@ public class Permutation {
 	 * @param i position 1
 	 * @param j position 2
 	 */
-	public String swap(String a, int i, int j) {
+	private String swap(String a, int i, int j) {
 		char temp;
 		char[] charArray = a.toCharArray();
 		temp = charArray[i];
